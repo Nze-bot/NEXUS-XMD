@@ -1,4 +1,4 @@
-<div align="center">
+.tag all .kick .download music Vv <div align="center">
   <img src="https://files.catbox.moe/tsjtpi.jpeg" alt="Bot Image" width="300"/>
 </div>
 
